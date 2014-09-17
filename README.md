@@ -9,7 +9,7 @@ meteor add walawala:timedifference-zh
 ```
 
 ##Example
-
+```
 vagueTime.get({
     from: 60,
     to: 0,
@@ -27,3 +27,4 @@ vagueTime.get({
     to: 0,
     units: 's'
 }); // returns '2 小时之前'
+```
